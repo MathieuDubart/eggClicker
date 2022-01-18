@@ -37,6 +37,7 @@ dependencies:
   hexcolor: ^2.0.5
   google_fonts: ^2.2.0
   shared_preferences: ^2.0.12
+  just_audio: ^0.9.18
 
 
 dev_dependencies:
@@ -75,6 +76,7 @@ flutter:
     - images/firstChick.png
     - images/firstEgg.png
     - images/nuggets.png
+    - soundsEffects/plop.mp3
 
     # To add assets to your application, add an assets section, like this:
   # assets:
